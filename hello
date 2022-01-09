@@ -1,10 +1,14 @@
 hii from branch priyanka
 second change
-<<<<<<< Updated upstream
+<<<<<<< HEAD
+
 
 2nd day changes from local
 =======
 2nd day changes
 
 Want this change in master
+
+
+this is to see ow cherry pick work in master
 
